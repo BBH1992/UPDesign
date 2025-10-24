@@ -1,0 +1,16 @@
+{
+    "name": "Dreamriver.ThirdDotween",
+    "rootNamespace": "",
+    "references": [
+        "GUID:67044ece8aea6fa4cb2a776e62671e6b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

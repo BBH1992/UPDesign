@@ -1,0 +1,21 @@
+{
+    "name": "ThirdDoozyUIManager.Editor",
+    "rootNamespace": "",
+    "references": [
+        "dreamriver.DreamRiverToolkitEditor",
+        "Unity.TextMeshPro",
+        "ThirdDoozyUIManager.Runtime",
+        "DoozyRuntime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

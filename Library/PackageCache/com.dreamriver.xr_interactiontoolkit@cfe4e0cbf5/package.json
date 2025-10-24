@@ -1,0 +1,7 @@
+{
+  "name": "com.dreamriver.xr_interactiontoolkit",
+  "displayName": "DreamRiver\u4e28XR_XRInteractionToolkit",
+  "version": "0.1.0",
+  "unity": "2022.3",
+  "description": "1.\u89e3\u51b3Pico\u6253\u5f00\u8f93\u5165\u6cd5\u540e\u591a\u751f\u6210\u4e00\u5bf9\u624b\u7684bug\n2.\u81ea\u52a8\u914d\u7f6eTeleportationArea\u3001TeleportationAnchor \u811a\u672c\u53ef\u4ea4\u4e92\n3.\u589e\u52a0\u4e86Entity_LeftHand\u3001Entity_RightHand"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "DreamRiver.BaiDuVoice",
+    "rootNamespace": "",
+    "references": [
+        "GUID:80702b57716bbbe44bfb9db5e4f2f2b2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

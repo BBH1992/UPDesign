@@ -1,0 +1,53 @@
+{
+  "name": "com.unity.cloud.draco",
+  "version": "5.1.3",
+  "displayName": "Draco for Unity",
+  "description": "Use Draco for Unity to apply Draco compression to meshes, import Draco files and load Draco data at runtime. Draco is an open-source library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.",
+  "unity": "2020.3",
+  "dependencies": {
+    "com.unity.burst": "1.8.11",
+    "com.unity.mathematics": "1.3.1"
+  },
+  "keywords": [
+    "mesh",
+    "transcode",
+    "compress",
+    "decompress",
+    "encode",
+    "decode",
+    "google",
+    "draco"
+  ],
+  "type": "library",
+  "samples": [
+    {
+      "displayName": "Draco Decoding",
+      "description": "Demonstrates how to decode Draco data at runtime",
+      "path": "Samples~/Decode"
+    },
+    {
+      "displayName": "Draco Encoding",
+      "description": "Demonstrates how to encode Draco data at runtime",
+      "path": "Samples~/Encode"
+    },
+    {
+      "displayName": "Scene/GameObject Encoding/Decoding via Menu",
+      "description": "Encode Meshes, GameObjects or entire Scenes via the Tools and Assets menu and have them decoded when the scene loads.",
+      "path": "Samples~/SceneEncodeDecode"
+    }
+  ],
+  "relatedPackages": {
+    "com.unity.cloud.draco.tests": "5.1.3"
+  },
+  "_upm": {
+    "changelog": "### Added\n- Added Apple Privacy Manifest file to `/Plugins` directory.\n\n### Fixed\n- Non-web libraries are properly included/excluded from builds again.\n- Apple iOS/tvOS/visionOS Device/Simulator SDK libraries are correctly included again, even when target SDK is switched during a session."
+  },
+  "upmCi": {
+    "footprint": "8f9828346efb0f4af30093c5b5abaa0591db83ef"
+  },
+  "repository": {
+    "url": "https://github.cds.internal.unity3d.com/unity/com.unity.cloud.draco.git",
+    "type": "git",
+    "revision": "964604a79dd7d60d9eec5f93feaa7bc54e865165"
+  }
+}

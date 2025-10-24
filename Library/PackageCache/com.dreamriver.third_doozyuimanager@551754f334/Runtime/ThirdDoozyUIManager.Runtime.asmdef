@@ -1,0 +1,19 @@
+{
+    "name": "ThirdDoozyUIManager.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "dreamriver.DreamRiverToolkit",
+        "Unity.TextMeshPro",
+        "DoozyRuntime",
+        "DOTween.Modules"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

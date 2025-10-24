@@ -1,0 +1,3 @@
+1.解决Pico打开输入法后多生成一对手的bug
+2.自动配置TeleportationArea、TeleportationAnchor 脚本可交互
+3.增加了Entity_LeftHand、Entity_RightHand
