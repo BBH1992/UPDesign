@@ -1,0 +1,36 @@
+public enum TemplateType
+{
+    Residential,//住宅楼
+    Residential1,//住宅楼
+    Residential2,//住宅楼
+    Residential3,//住宅楼
+    OfficeBuilding,//写字楼
+    OfficeBuilding1,//写字楼
+    OfficeBuilding2,//写字楼
+    OfficeBuilding3,//写字楼
+    ShoppingMall,//商场
+    Tree,//一棵树
+    Trees,//一片树
+    ThroughRoad,//直道路
+    Crossing,//十字路口
+    CornerRoad,//直角拐弯路口
+    TRoad,//丁字路口
+    Lawn,//草坪
+    Land,//土地
+    CementFloor,//水泥地
+    Pool,//水池
+    Lake,//湖泊
+    Park,//公园
+    Hospital,//医院
+    School,//学校
+    Square1,//正方形1
+    Square2,
+    Rectangle1,
+    Point,
+    Surfaces,
+    ShoppingMall1,//商场
+    ShoppingMall2,//商场
+    ShoppingMall3,//商场
+    Park1,
+    Park2,
+}
